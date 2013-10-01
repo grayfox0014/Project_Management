@@ -1,0 +1,6 @@
+#Tue Oct 18 13:37:23 WST 2011
+include.rule.names=false
+include.module.ids=false
+eclipse.preferences.version=1
+marker.amount.limit=100
+limit.markers.per.resource=false

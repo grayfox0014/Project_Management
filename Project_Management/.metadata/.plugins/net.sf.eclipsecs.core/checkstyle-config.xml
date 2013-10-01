@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<checkstyle-configurations file-format-version="5.0.0" default-check-configuration="CITS1220 Checkstyle">
+  <check-configuration name="CITS1220 Checkstyle" location="F:\CITS1220\CITS1220StyleRule(Beginner).xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </check-configuration>
+</checkstyle-configurations>
